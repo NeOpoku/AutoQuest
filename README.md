@@ -1,7 +1,4 @@
 
-![Logo](https://files.oaiusercontent.com/file-ARGvxM2ULbKALFd7c2j9W5?se=2025-01-16T22%3A45%3A01Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D55443519-ff7c-4c1e-9eef-126059d03ac0.webp&sig=kvcWE%2BF9/TwZ91apmUwXInfTNItjE7rKHrhHf1DrzSU%3D)
-
-
 # AutoQuest
 ## Description
 This is a command-line interface (CLI) application that allows users to manage a collection of vehicles. Users can create new vehicles (Car, Truck, or Motorbike) or select existing ones. Once a vehicle is selected, users can perform various actions such as printing details, starting the vehicle, accelerating, and more. The application provides an interactive experience through the terminal, returning users to the actions menu after each action until they choose to exit.
