@@ -1,7 +1,7 @@
 
 # AutoQuest
 ## Description
-This is a command-line interface (CLI) application that allows users to manage a collection of vehicles. Users can create new vehicles (Car, Truck, or Motorbike) or select existing ones. Once a vehicle is selected, users can perform various actions such as printing details, starting the vehicle, accelerating, and more. The application provides an interactive experience through the terminal, returning users to the actions menu after each action until they choose to exit.
+This command-line interface (CLI) application allows users to manage a collection of vehicles. Users can create new vehicles (Car, Truck, or Motorbike) or select existing ones. Users can perform various actions once a vehicle is selected, such as printing details, starting the vehicle, accelerating, and more. The application provides an interactive experience through the terminal, returning users to the actions menu after each action until they choose to exit.
 
 
 ## Features
@@ -32,10 +32,6 @@ Navigate to the project directory
 cd AutoQuest
 ```
 
-
-
-
-   
 ## Usage/Examples
 
 Start the CLI application:
@@ -50,8 +46,10 @@ Follow the prompts:
 Exit the application when done.
 
 
-## Badges
+## 🔗 Links
+[Walkthrough Video](https://drive.google.com/file/d/1uJHWHwvzacgnBj-X9E9PIQw_uXuWz8dM/view?usp=sharing)
 
+## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
